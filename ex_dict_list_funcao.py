@@ -24,7 +24,7 @@ outras_despesas = 500
        
 # Os professores doaram 5000,00, cada professor doou 1000,00
 # 2 - Criar um dicionario com o nome e valor
-
+print("hello")
 
 # 3 - Criar uma lista com os nomes dos professores
 
